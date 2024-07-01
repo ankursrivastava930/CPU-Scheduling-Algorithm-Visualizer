@@ -1,5 +1,14 @@
 CPU-Scheduling-Algorithm-Visualizer-
 
-CPU Scheduling Algorithm Visualizer Visualize 9 classic CPU scheduling algorithms (FCFS, SJF, RR, LJF, Priority, SRTF, HRRN, Multilevel Queue, Multilevel Feedback Queue) and a new algorithm based on recent research.
+CPU Scheduling Algorithm Visualizer Visualize 9 classic CPU scheduling algorithms
+1) First come first serve
+2) Shortest Job First
+3) Shortest Job First Preemptive
+4) Longest Job First
+5) Longest Job First Preemptive
+6) Round Robin Scheduling
+7) Priority
+8) Priority Preemptive
+9) A new algorithm, a mixture of SJF, Priority, and Round Robin based on recent research
 
 Features Gantt charts, process details, and performance metrics.
