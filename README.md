@@ -12,3 +12,5 @@ CPU Scheduling Algorithm Visualizer Visualize 9 classic CPU scheduling algorithm
 9) A new algorithm, a mixture of SJF, Priority, and Round Robin based on recent research
 
 Features Gantt charts, process details, and performance metrics.
+
+Report_Paper_Link = https://www.researchgate.net/publication/49619229_An_Improved_Round_Robin_Schedduling_Algorithm_for_CPU_Scheduling
