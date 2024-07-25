@@ -1,4 +1,4 @@
-CPU-Scheduling-Algorithm-Visualizer-
+#CPU-Scheduling-Algorithm-Visualizer-
 
 CPU Scheduling Algorithm Visualizer Visualize 9 classic CPU scheduling algorithms
 1) First come first serve
