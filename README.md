@@ -14,3 +14,21 @@ CPU Scheduling Algorithm Visualizer Visualize 9 classic CPU scheduling algorithm
 Features Gantt charts, process details, and performance metrics.
 
 Report_Paper_Link for Proposed Algorithm = https://www.researchgate.net/publication/49619229_An_Improved_Round_Robin_Schedduling_Algorithm_for_CPU_Scheduling
+
+
+
+<br>
+<br>
+<h3>Home Page UI</h3>
+<br>
+
+![Main_Page_UI](./Main_Page_UI.png)
+
+<br>
+<br>
+<h3>Department Section UI</h3>
+<br>
+<br>
+
+![Animation_UI](./Animation_UI.png)
+                           
